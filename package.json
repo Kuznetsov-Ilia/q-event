@@ -15,7 +15,7 @@
     "url": "git+https://github.com/QiV/q-event.git"
   },
   "dependencies": {
-    "q-utils": "^1.0.0"
+    "my-util": "^1.0.0"
   },
   "devDependencies": {
     "rollup": "*",
