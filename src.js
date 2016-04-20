@@ -1,6 +1,6 @@
 // TODO: https://gist.github.com/RubaXa/8662836
 
-import { isFunction } from 'q-utils';
+import { isFunction } from 'my-util';
 var slice = Array.prototype.slice;
 var Events = {
   // Bind an event to a `callback` function. Passing `"all"` will bind
